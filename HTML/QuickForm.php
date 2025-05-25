@@ -68,6 +68,7 @@ $GLOBALS['HTML_QUICKFORM_ELEMENT_TYPES'] =
             'autocomplete'  =>array('HTML/QuickForm/autocomplete.php', 'HTML_QuickForm_autocomplete'),
             'xbutton'       =>array('HTML/QuickForm/xbutton.php','HTML_QuickForm_xbutton'),
             'advmultiselect'=>array('HTML/QuickForm/advmultiselect.php','HTML_QuickForm_advmultiselect'),
+            'range'         =>array('HTML/QuickForm/range.php','HTML_QuickForm_range'),
         );
 
 /**
